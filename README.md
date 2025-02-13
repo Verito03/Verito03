@@ -25,7 +25,7 @@ _"La programación no es sobre escribir código, sino sobre resolver problemas."
 ![Amante del café](https://img.shields.io/badge/Amante%20del%20café-%E2%98%95-yellow?style=flat-square)
 
 ## 📊 *ESTADÍSTICAS DE GITHUB*  
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=dark)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=Verito03&show_icons=true&theme=dark)
 
 ## 📫 *CONTACTO*   
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veronicapardo1705gmail.com)
