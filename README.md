@@ -3,7 +3,7 @@
 ## 👩‍💻 *SOBRE MÍ*
 <br><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBwM3lja3BtaXpvZGllem5rZzQwaWhzb3dyamZmZTNubjU4dDExNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="GIF animado" width="250" align="right">
 <br>
-👩‍🏫 Actualmente estoy estudiando <b>1º de DAM en IES Las Salinas</b>.
+👩‍🏫 Actualmente estoy estudiando <b>1º de DAM en IES Las Salinas
 <br>💡 Me encanta aprender sobre desarrollo de software y mejorar mis habilidades.  
 <br>🚀 Actualmente, estoy aprendiendo <b>Java, Python, Html, Xml y MySQL</b>.  
 <br>🎯 Mi objetivo es convertirme en una desarrolladora full-stack en el futuro.  
